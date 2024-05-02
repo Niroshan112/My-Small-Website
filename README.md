@@ -61,5 +61,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CRAWL001/CRAWL001/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/CRAWL001/CRAWL-MD-/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
 
